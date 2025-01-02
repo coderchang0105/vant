@@ -19,6 +19,7 @@ export type {
   DialogOptions,
   DialogThemeVars,
   DialogMessageAlign,
+  DialogAction,
 } from './types';
 
 declare module 'vue' {

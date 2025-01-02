@@ -1,5 +1,5 @@
 {
-  "name": "vant",
+  "name": "vant-sq",
   "version": "4.9.15",
   "description": "Mobile UI Components built on Vue",
   "main": "lib/vant.cjs.js",
